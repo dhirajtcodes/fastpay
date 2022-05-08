@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fastpay/static/css/main.be0a38da.css",
-    "main.js": "/fastpay/static/js/main.2d2a3de9.js",
-    "static/js/532.ad1338dd.chunk.js": "/fastpay/static/js/532.ad1338dd.chunk.js",
+    "main.js": "/fastpay/static/js/main.814a3ccf.js",
+    "static/js/532.eb9c8c83.chunk.js": "/fastpay/static/js/532.eb9c8c83.chunk.js",
     "static/js/175.20047827.chunk.js": "/fastpay/static/js/175.20047827.chunk.js",
     "static/js/951.41460428.chunk.js": "/fastpay/static/js/951.41460428.chunk.js",
     "static/js/415.ac7c0498.chunk.js": "/fastpay/static/js/415.ac7c0498.chunk.js",
@@ -21,8 +21,8 @@
     "static/media/callcenter.jpg": "/fastpay/static/media/callcenter.7f5bf5c5c49655b58010.jpg",
     "index.html": "/fastpay/index.html",
     "main.be0a38da.css.map": "/fastpay/static/css/main.be0a38da.css.map",
-    "main.2d2a3de9.js.map": "/fastpay/static/js/main.2d2a3de9.js.map",
-    "532.ad1338dd.chunk.js.map": "/fastpay/static/js/532.ad1338dd.chunk.js.map",
+    "main.814a3ccf.js.map": "/fastpay/static/js/main.814a3ccf.js.map",
+    "532.eb9c8c83.chunk.js.map": "/fastpay/static/js/532.eb9c8c83.chunk.js.map",
     "175.20047827.chunk.js.map": "/fastpay/static/js/175.20047827.chunk.js.map",
     "951.41460428.chunk.js.map": "/fastpay/static/js/951.41460428.chunk.js.map",
     "415.ac7c0498.chunk.js.map": "/fastpay/static/js/415.ac7c0498.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.be0a38da.css",
-    "static/js/main.2d2a3de9.js"
+    "static/js/main.814a3ccf.js"
   ]
 }
