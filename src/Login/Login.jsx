@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 
 const Login = () => {
   const [isLogin, setIsLogin] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
 
   const navigate = useNavigate();
 
@@ -19,8 +18,6 @@ const Login = () => {
 
     const enteredEmail = emailInputRef.current.value;
     const enteredPassword = passwordInputRef.current.value;
-
-    setIsLoading(true);
     if (isLogin) {
     } else {
       fetch(
@@ -37,7 +34,6 @@ const Login = () => {
           },
         }
       ).then((res) => {
-        setIsLoading(false);
         if (res.ok) {
           navigate("/", { replace: true });
         } else {
