@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/fastpay/static/css/main.be0a38da.css",
+    "main.js": "/fastpay/static/js/main.2d2a3de9.js",
+    "static/js/532.ad1338dd.chunk.js": "/fastpay/static/js/532.ad1338dd.chunk.js",
+    "static/js/175.20047827.chunk.js": "/fastpay/static/js/175.20047827.chunk.js",
+    "static/js/951.41460428.chunk.js": "/fastpay/static/js/951.41460428.chunk.js",
+    "static/js/415.ac7c0498.chunk.js": "/fastpay/static/js/415.ac7c0498.chunk.js",
+    "static/js/314.2b6c2015.chunk.js": "/fastpay/static/js/314.2b6c2015.chunk.js",
+    "static/js/525.a2b508c5.chunk.js": "/fastpay/static/js/525.a2b508c5.chunk.js",
+    "static/js/696.e44b522a.chunk.js": "/fastpay/static/js/696.e44b522a.chunk.js",
+    "static/js/70.50c8bc8d.chunk.js": "/fastpay/static/js/70.50c8bc8d.chunk.js",
+    "static/js/412.e9e91a4f.chunk.js": "/fastpay/static/js/412.e9e91a4f.chunk.js",
+    "static/js/789.40902151.chunk.js": "/fastpay/static/js/789.40902151.chunk.js",
+    "static/js/661.e2856465.chunk.js": "/fastpay/static/js/661.e2856465.chunk.js",
+    "static/js/746.72c16656.chunk.js": "/fastpay/static/js/746.72c16656.chunk.js",
+    "static/js/43.8810b0b1.chunk.js": "/fastpay/static/js/43.8810b0b1.chunk.js",
+    "static/media/hero3.jpg": "/fastpay/static/media/hero3.51536542c8f99ba54eea.jpg",
+    "static/media/hero1.jpg": "/fastpay/static/media/hero1.77c6e06dfff9174201c5.jpg",
+    "static/media/mainHero.png": "/fastpay/static/media/mainHero.d00869bce273e1bdfee6.png",
+    "static/media/callcenter.jpg": "/fastpay/static/media/callcenter.7f5bf5c5c49655b58010.jpg",
+    "index.html": "/fastpay/index.html",
+    "main.be0a38da.css.map": "/fastpay/static/css/main.be0a38da.css.map",
+    "main.2d2a3de9.js.map": "/fastpay/static/js/main.2d2a3de9.js.map",
+    "532.ad1338dd.chunk.js.map": "/fastpay/static/js/532.ad1338dd.chunk.js.map",
+    "175.20047827.chunk.js.map": "/fastpay/static/js/175.20047827.chunk.js.map",
+    "951.41460428.chunk.js.map": "/fastpay/static/js/951.41460428.chunk.js.map",
+    "415.ac7c0498.chunk.js.map": "/fastpay/static/js/415.ac7c0498.chunk.js.map",
+    "314.2b6c2015.chunk.js.map": "/fastpay/static/js/314.2b6c2015.chunk.js.map",
+    "525.a2b508c5.chunk.js.map": "/fastpay/static/js/525.a2b508c5.chunk.js.map",
+    "696.e44b522a.chunk.js.map": "/fastpay/static/js/696.e44b522a.chunk.js.map",
+    "70.50c8bc8d.chunk.js.map": "/fastpay/static/js/70.50c8bc8d.chunk.js.map",
+    "412.e9e91a4f.chunk.js.map": "/fastpay/static/js/412.e9e91a4f.chunk.js.map",
+    "789.40902151.chunk.js.map": "/fastpay/static/js/789.40902151.chunk.js.map",
+    "661.e2856465.chunk.js.map": "/fastpay/static/js/661.e2856465.chunk.js.map",
+    "746.72c16656.chunk.js.map": "/fastpay/static/js/746.72c16656.chunk.js.map",
+    "43.8810b0b1.chunk.js.map": "/fastpay/static/js/43.8810b0b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0a38da.css",
+    "static/js/main.2d2a3de9.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/314.2b6c2015.chunk.js","mappings":"iIAMA,UAJe,WACb,OAAO","sources":["pages/Errors.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Errors = () => {\r\n  return <div>Errors</div>;\r\n};\r\n\r\nexport default Errors;\r\n"],"names":[],"sourceRoot":""}
