@@ -3,7 +3,7 @@ const sendMoneyApi = [
     id: 1,
     logo: "fas fa-download",
     title: "Register for free.",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Etquia quis?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Etquia quis?",
+    info: "Lorem ipsum, dol sit amet consectetur adipisicing elit. Etquia quis?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Etquia quis?",
   },
   {
     id: 2,
